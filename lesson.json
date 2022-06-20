@@ -1,0 +1,22 @@
+{
+   "category":{
+      "title":"name",
+      "description":" ",
+      "image":"https://www.google.com.jpg/"
+   }
+}
+{
+   "product":{
+      "title":"JesseOctopus",
+      "description":"Pacific Ocean",
+      "images":[
+         {
+            "image":"https://www.google.com.jpg/"
+         },
+         {
+            "image":"https://www.google.com.jpg/"
+         }
+      ],
+      "price":8.99
+   }
+}
